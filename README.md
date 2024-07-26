@@ -5,13 +5,9 @@ DOMAIN:PYTHON PROGAMMING
 DURATION:JUNE TO JULY 2024
 MENTOR:SRAVANI GOUNI
 
-
-OVERVIEW OF THE PROJECT
-
+**OVERVIEW OF THE PROJECT
 
 **Project:Simple calculator**
-
-**OVERVIEW:**
 
 **Welcome Message and Menu**:
     The program starts by displaying a welcome message and a menu of operations to the user. This helps the user understand what operations are available and how to interact with the program.
