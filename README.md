@@ -5,14 +5,14 @@ DOMAIN:PYTHON PROGAMMING
 DURATION:JUNE TO JULY 2024
 MENTOR:SRAVANI GOUNI
 
-**OVERVIEW OF THE PROJECT
+**OVERVIEW OF THE PROJECT**
 
 **Project:Simple calculator**
 
 **Welcome Message and Menu**:
     The program starts by displaying a welcome message and a menu of operations to the user. This helps the user understand what operations are available and how to interact with the program.
 
-**Input Handling:**
+**Input Handling**:
     The user is prompted to enter their choice of operation by selecting a number (1 for addition, 2 for subtraction, 3 for multiplication, 4 for division).
     The program then takes two numerical inputs from the user (num1 and num2).
 
